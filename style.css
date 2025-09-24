@@ -1,0 +1,50 @@
+body {
+  background-image: url(the-barclays-premier-league-trophy-2CH9M35.jpg);
+}
+
+header {
+  background: #0077cc;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0 0 10px;
+}
+
+select {
+  margin: 0 5px;
+  padding: 6px;
+  border-radius: 5px;
+  border: none;
+  font-size: 14px;
+}
+
+main {
+  padding: 1rem;
+}
+
+#standings-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  
+  box-shadow: 0 2px 6px rgba(16, 52, 212, 0.1);
+}
+
+
+#standings-table td {
+  padding: 10px;
+  border: 1px solid #3d1b1b;
+  text-align: center;
+  color:white;
+  font-weight: 1000;
+  opacity:0.5;
+  background-color: black;
+  
+}
+#standings-table th {
+  background: #0077cc;
+  color: white;
+}

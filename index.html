@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Football Standings</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="container">
+  <header>
+    <h1>⚽ Football Standings</h1>
+    <select id="league-select">
+      <option value="">Select a League...</option>
+    </select>
+    <select id="season-select" disabled>
+      <option value="">Select a Season...</option>
+    </select>
+  </header>/
+
+  <main>
+    <h2 id="league-title">No league selected</h2>
+    <table id="standings-table">
+      <thead>
+        <tr>
+          <th>Pos</th>
+          <th>Team</th>
+          <th>Played</th>
+          <th>Wins</th>
+          <th>Draws</th>
+          <th>Losses</th>
+          <th>Points</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td colspan="7">Choose a league & season</td></tr>
+      </tbody>
+    </table>
+  </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

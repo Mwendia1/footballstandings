@@ -7,22 +7,26 @@
         {
           "year": 2023,
           "standings": [
-            { "team": "Manchester City", 
-                "played": 38,
-                "wins": 28, 
-                "draws": 5, 
-                "losses": 5, 
-                "points": 89 
-            },
+            { "team": "Manchester City", "played": 38, "wins": 28, "draws": 5, "losses": 5, "points": 89 },
             { "team": "Arsenal", "played": 38, "wins": 26, "draws": 6, "losses": 6, "points": 84 },
-            { "team": "Man United","played": 38, "wins": 23, "draws": 6, "losses": 9, "points": 75 },
-           { "team": "New Castle", "played": 38, "wins": 19, "draws": 14, "losses": 5, "points": 71 },
-           { "team": "Liverpool", "played": 38, "wins": 19, "draws": 10, "losses": 9, "points": 67 },
-           { "team": "Brighton", "played": 38, "wins": 18, "draws": 8, "losses": 12, "points": 62 },
-           { "team": "Aston Vila", "played": 38, "wins": 18, "draws": 7, "losses": 13, "points": 61 },
-           { "team": "Tottenham", "played": 38, "wins": 18, "draws": 6, "losses": 14, "points": 60 },
-           { "team": "Brentford", "played": 38, "wins": 15, "draws": 14, "losses": 9, "points": 59 },
-           { "team": "Fulham", "played": 38, "wins": 15, "draws": 7, "losses": 16, "points": 52 }
+            { "team": "Manchester United", "played": 38, "wins": 23, "draws": 6, "losses": 9, "points": 75 },
+            { "team": "Newcastle United", "played": 38, "wins": 19, "draws": 14, "losses": 5, "points": 71 },
+            { "team": "Liverpool", "played": 38, "wins": 19, "draws": 10, "losses": 9, "points": 67 },
+            { "team": "Brighton", "played": 38, "wins": 18, "draws": 8, "losses": 12, "points": 62 },
+            { "team": "Aston Villa", "played": 38, "wins": 18, "draws": 7, "losses": 13, "points": 61 },
+            { "team": "Tottenham Hotspur", "played": 38, "wins": 18, "draws": 6, "losses": 14, "points": 60 },
+            { "team": "Brentford", "played": 38, "wins": 15, "draws": 14, "losses": 9, "points": 59 },
+            { "team": "Fulham", "played": 38, "wins": 15, "draws": 7, "losses": 16, "points": 52 },
+            { "team": "Chelsea", "played": 38, "wins": 14, "draws": 9, "losses": 15, "points": 51 },
+            { "team": "Crystal Palace", "played": 38, "wins": 13, "draws": 10, "losses": 15, "points": 49 },
+            { "team": "Wolverhampton Wanderers", "played": 38, "wins": 12, "draws": 9, "losses": 17, "points": 45 },
+            { "team": "Bournemouth", "played": 38, "wins": 11, "draws": 10, "losses": 17, "points": 43 },
+            { "team": "Everton", "played": 38, "wins": 10, "draws": 11, "losses": 17, "points": 41 },
+            { "team": "Leicester City", "played": 38, "wins": 9, "draws": 12, "losses": 17, "points": 39 },
+            { "team": "Southampton", "played": 38, "wins": 8, "draws": 9, "losses": 21, "points": 33 },
+            { "team": "West Ham United", "played": 38, "wins": 8, "draws": 8, "losses": 22, "points": 32 },
+            { "team": "Luton Town", "played": 38, "wins": 7, "draws": 9, "losses": 22, "points": 30 },
+            { "team": "Sheffield United", "played": 38, "wins": 5, "draws": 7, "losses": 26, "points": 22 }
           ]
         },
         {
@@ -31,13 +35,79 @@
             { "team": "Manchester City", "played": 38, "wins": 28, "draws": 7, "losses": 3, "points": 91 },
             { "team": "Arsenal", "played": 38, "wins": 28, "draws": 5, "losses": 5, "points": 89 },
             { "team": "Liverpool", "played": 38, "wins": 24, "draws": 10, "losses": 4, "points": 82 },
-            { "team": "Aston Vila", "played": 38, "wins": 20, "draws": 8, "losses": 10, "points": 68 },
-            { "team": "Tottenham", "played": 38, "wins": 20, "draws": 6, "losses": 12, "points": 66 },
-            { "team": "chelsea", "played": 38, "wins": 18, "draws": 9, "losses": 11, "points": 63 },
-            { "team": "New Castle", "played": 38, "wins": 18, "draws": 6, "losses": 14, "points": 60 },
-            { "team": "Man United", "played": 38, "wins": 18, "draws": 6, "losses": 14, "points": 60 },
-            { "team": "West Ham", "played": 38, "wins": 14, "draws": 10, "losses": 14, "points": 52 },
-            { "team": "Crystal Palase", "played": 38, "wins": 13, "draws": 10, "losses": 15, "points": 49 }
+            { "team": "Aston Villa", "played": 38, "wins": 20, "draws": 8, "losses": 10, "points": 68 },
+            { "team": "Tottenham Hotspur", "played": 38, "wins": 20, "draws": 6, "losses": 12, "points": 66 },
+            { "team": "Chelsea", "played": 38, "wins": 18, "draws": 9, "losses": 11, "points": 63 },
+            { "team": "Newcastle United", "played": 38, "wins": 18, "draws": 6, "losses": 14, "points": 60 },
+            { "team": "Manchester United", "played": 38, "wins": 18, "draws": 6, "losses": 14, "points": 60 },
+            { "team": "West Ham United", "played": 38, "wins": 14, "draws": 10, "losses": 14, "points": 52 },
+            { "team": "Crystal Palace", "played": 38, "wins": 13, "draws": 10, "losses": 15, "points": 49 },
+            { "team": "Brighton", "played": 38, "wins": 13, "draws": 9, "losses": 16, "points": 48 },
+            { "team": "Brentford", "played": 38, "wins": 13, "draws": 8, "losses": 17, "points": 47 },
+            { "team": "Fulham", "played": 38, "wins": 12, "draws": 10, "losses": 16, "points": 46 },
+            { "team": "Wolverhampton Wanderers", "played": 38, "wins": 11, "draws": 9, "losses": 18, "points": 42 },
+            { "team": "Bournemouth", "played": 38, "wins": 11, "draws": 8, "losses": 19, "points": 41 },
+            { "team": "Leicester City", "played": 38, "wins": 10, "draws": 10, "losses": 18, "points": 40 },
+            { "team": "Everton", "played": 38, "wins": 9, "draws": 11, "losses": 18, "points": 38 },
+            { "team": "Southampton", "played": 38, "wins": 8, "draws": 10, "losses": 20, "points": 34 },
+            { "team": "Luton Town", "played": 38, "wins": 7, "draws": 9, "losses": 22, "points": 30 },
+            { "team": "Sheffield United", "played": 38, "wins": 5, "draws": 7, "losses": 26, "points": 22 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "custom.2",
+      "name": "La Liga",
+      "seasons": [
+        {
+          "year": 2023,
+          "standings": [
+            { "team": "Barcelona", "played": 38, "wins": 28, "draws": 4, "losses": 6, "points": 88 },
+            { "team": "Real Madrid", "played": 38, "wins": 26, "draws": 5, "losses": 7, "points": 83 },
+            { "team": "Atletico Madrid", "played": 38, "wins": 23, "draws": 7, "losses": 8, "points": 76 },
+            { "team": "Real Sociedad", "played": 38, "wins": 21, "draws": 8, "losses": 9, "points": 71 },
+            { "team": "Villarreal", "played": 38, "wins": 19, "draws": 7, "losses": 12, "points": 64 },
+            { "team": "Athletic Bilbao", "played": 38, "wins": 18, "draws": 8, "losses": 12, "points": 62 },
+            { "team": "Real Betis", "played": 38, "wins": 17, "draws": 9, "losses": 12, "points": 60 },
+            { "team": "Sevilla", "played": 38, "wins": 16, "draws": 10, "losses": 12, "points": 58 },
+            { "team": "Real Valladolid", "played": 38, "wins": 15, "draws": 10, "losses": 13, "points": 55 },
+            { "team": "Celta Vigo", "played": 38, "wins": 14, "draws": 11, "losses": 13, "points": 53 },
+            { "team": "Mallorca", "played": 38, "wins": 13, "draws": 12, "losses": 13, "points": 51 },
+            { "team": "Getafe", "played": 38, "wins": 12, "draws": 12, "losses": 14, "points": 48 },
+            { "team": "Rayo Vallecano", "played": 38, "wins": 11, "draws": 13, "losses": 14, "points": 46 },
+            { "team": "Espanyol", "played": 38, "wins": 10, "draws": 13, "losses": 15, "points": 43 },
+            { "team": "Almeria", "played": 38, "wins": 9, "draws": 12, "losses": 17, "points": 39 },
+            { "team": "Girona", "played": 38, "wins": 8, "draws": 13, "losses": 17, "points": 37 },
+            { "team": "Las Palmas", "played": 38, "wins": 8, "draws": 11, "losses": 19, "points": 35 },
+            { "team": "Cadiz", "played": 38, "wins": 7, "draws": 12, "losses": 19, "points": 33 },
+            { "team": "Levante", "played": 38, "wins": 6, "draws": 11, "losses": 21, "points": 29 },
+            { "team": "Elche", "played": 38, "wins": 5, "draws": 9, "losses": 24, "points": 24 }
+          ]
+        },
+        {
+          "year": 2024,
+          "standings": [
+            { "team": "Real Madrid", "played": 38, "wins": 29, "draws": 6, "losses": 3, "points": 93 },
+            { "team": "Barcelona", "played": 38, "wins": 27, "draws": 8, "losses": 3, "points": 89 },
+            { "team": "Atletico Madrid", "played": 38, "wins": 24, "draws": 6, "losses": 8, "points": 80 },
+            { "team": "Real Sociedad", "played": 38, "wins": 22, "draws": 9, "losses": 7, "points": 75 },
+            { "team": "Athletic Bilbao", "played": 38, "wins": 20, "draws": 8, "losses": 10, "points": 68 },
+            { "team": "Real Betis", "played": 38, "wins": 18, "draws": 10, "losses": 10, "points": 64 },
+            { "team": "Villarreal", "played": 38, "wins": 17, "draws": 9, "losses": 12, "points": 60 },
+            { "team": "Sevilla", "played": 38, "wins": 16, "draws": 10, "losses": 12, "points": 58 },
+            { "team": "Celta Vigo", "played": 38, "wins": 15, "draws": 10, "losses": 13, "points": 55 },
+            { "team": "Mallorca", "played": 38, "wins": 14, "draws": 11, "losses": 13, "points": 53 },
+            { "team": "Girona", "played": 38, "wins": 13, "draws": 12, "losses": 13, "points": 51 },
+            { "team": "Getafe", "played": 38, "wins": 12, "draws": 12, "losses": 14, "points": 48 },
+            { "team": "Rayo Vallecano", "played": 38, "wins": 11, "draws": 13, "losses": 14, "points": 46 },
+            { "team": "Espanyol", "played": 38, "wins": 10, "draws": 12, "losses": 16, "points": 42 },
+            { "team": "Las Palmas", "played": 38, "wins": 9, "draws": 12, "losses": 17, "points": 39 },
+            { "team": "Cadiz", "played": 38, "wins": 8, "draws": 11, "losses": 19, "points": 35 },
+            { "team": "Almeria", "played": 38, "wins": 7, "draws": 10, "losses": 21, "points": 31 },
+            { "team": "Elche", "played": 38, "wins": 6, "draws": 9, "losses": 23, "points": 27 },
+            { "team": "Levante", "played": 38, "wins": 5, "draws": 8, "losses": 25, "points": 23 },
+            { "team": "Mirandes", "played": 38, "wins": 4, "draws": 7, "losses": 27, "points": 19 }
           ]
         }
       ]
